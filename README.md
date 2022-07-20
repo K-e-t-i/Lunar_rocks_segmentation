@@ -4,7 +4,7 @@
 It's a university project based on artificial neural network and is used to lunar rocks segmentation. Software is written in **Python** programming language using the open source machine learning framework **PyTorch**.
 
 
-The task is multi-class segmentation. Each class has been marked with a different color. The training data is in the *train* folder. The test data is located in the *test* folder.
+The task is multi-class segmentation. Each class has been marked with a different color. The training data are in the *train* folder. The test data are located in the *test* folder.
 
 ## Scripts
 
